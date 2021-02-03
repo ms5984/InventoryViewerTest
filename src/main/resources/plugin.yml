@@ -1,0 +1,9 @@
+name: InventoryViewerTest
+version: ${project.version}
+main: com.github.ms5984.test.inventoryviewertest.InventoryViewerTest
+api-version: 1.16
+authors: [ ms5984 ]
+commands:
+  inventorytest:
+    aliases: [itest]
+    description: Test inventory
